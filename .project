@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PapaSmurfPlaysBattlecode</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>bin</name>
+			<type>2</type>
+			<location>/Users/Richard/Desktop/BattleCode/bin</location>
+		</link>
+		<link>
+			<name>build.xml</name>
+			<type>1</type>
+			<location>/Users/Richard/Desktop/BattleCode/build.xml</location>
+		</link>
+		<link>
+			<name>examplefuncsplayer</name>
+			<type>2</type>
+			<location>/Users/Richard/Desktop/BattleCode/bin/examplefuncsplayer</location>
+		</link>
+		<link>
+			<name>lib</name>
+			<type>2</type>
+			<location>/Users/Richard/Desktop/BattleCode/lib</location>
+		</link>
+		<link>
+			<name>teams</name>
+			<type>2</type>
+			<location>/Users/Richard/Desktop/BattleCode/teams</location>
+		</link>
+	</linkedResources>
+</projectDescription>

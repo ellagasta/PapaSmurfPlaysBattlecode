@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="teams"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="/Users/Richard/Desktop/BattleCode/bin"/>
+	<classpathentry kind="con" path="/Users/Richard/Desktop/BattleCode/bin/examplefuncsplayer"/>
+	<classpathentry kind="con" path="/Users/Richard/Desktop/BattleCode/lib"/>
+	<classpathentry kind="con" path="/Users/Richard/Desktop/BattleCode/teams"/>
+	<classpathentry kind="con" path="/Users/Richard/Desktop/BattleCode/teams/examplefuncsplayer"/>
+	<classpathentry kind="lib" path="/Users/Richard/Desktop/BattleCode/lib/battlecode-client.jar"/>
+	<classpathentry kind="lib" path="/Users/Richard/Desktop/BattleCode/lib/battlecode-player.jar"/>
+	<classpathentry kind="lib" path="/Users/Richard/Desktop/BattleCode/lib/battlecode-server.jar"/>
+	<classpathentry kind="lib" path="/Users/Richard/Desktop/BattleCode/lib/jogl.all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
